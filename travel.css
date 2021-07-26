@@ -1,0 +1,9 @@
+body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
+.myLink {display: none}
+
+.barcolor{color:rgb(80, 0, 0)}
+.textforbar{color:rgb(96, 96, 96); width:"50px;"}
+.spacing{margin-right:5px;font-size:22px;}
+.colorforsecondbar{color:black;}
+.topnav:active{color:rgb(163, 121, 42);}
+.topnav:hover{color:rgb(58, 4, 22);}
